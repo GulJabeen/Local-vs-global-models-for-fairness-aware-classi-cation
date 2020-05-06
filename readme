@@ -1,0 +1,7 @@
+--------------------------readmefile..........................
+The objective of this project is to detect and remove the errors to increase the quality of data. 
+To partition the data into a pre-deﬁned number of clusters using K-means or K-modes then train a model
+for making income level predictions using classiﬁcation algorithms. 
+We have applied a global classiﬁer against clustering to improve the quality of classiﬁcation.
+To design algorithms that make fair predictions which avoid disparate impact and unfair results.
+Sensitive attributes must be examined like race and gender.
